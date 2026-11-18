@@ -6,6 +6,8 @@
 A deep learning web application that recognizes handwritten digits (0–9) using a Convolutional Neural Network (CNN) trained on the MNIST dataset. Users can draw digits directly on an interactive canvas, and the model predicts the digit in real time.
 
 
+🌐 **Live Demo:** [View Live Streamlit Cloud Application](https://handwrittendigitrecognition1.streamlit.app/)
+
 ---
 
 ## 📌 Project Overview
